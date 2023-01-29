@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portofolio-react/static/css/main.bf932ce5.css",
+    "main.js": "/portofolio-react/static/js/main.976c85f4.js",
+    "static/media/vespaone.jpg": "/portofolio-react/static/media/vespaone.fb6d6fe3f0f7a451303a.jpg",
+    "static/media/vespatwo.jpg": "/portofolio-react/static/media/vespatwo.5ae1ad812cab8fe13280.jpg",
+    "static/media/1.jpg": "/portofolio-react/static/media/1.807223136eaf6a10fe4c.jpg",
+    "static/media/DAFTAR RIWAYAT HIDUP ONE.pdf": "/portofolio-react/static/media/DAFTAR RIWAYAT HIDUP ONE.358b7676ceab31472d89.pdf",
+    "static/media/34.jpg": "/portofolio-react/static/media/34.062e36f55d4489e9bb49.jpg",
+    "static/media/agung.jpg": "/portofolio-react/static/media/agung.4d1388f7ddfeebb91902.jpg",
+    "static/media/eaa.jpg": "/portofolio-react/static/media/eaa.7689c5846be16a4923ee.jpg",
+    "static/media/2.jpg": "/portofolio-react/static/media/2.b1791a83420a6ab07b1e.jpg",
+    "index.html": "/portofolio-react/index.html",
+    "main.bf932ce5.css.map": "/portofolio-react/static/css/main.bf932ce5.css.map",
+    "main.976c85f4.js.map": "/portofolio-react/static/js/main.976c85f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf932ce5.css",
+    "static/js/main.976c85f4.js"
+  ]
+}
